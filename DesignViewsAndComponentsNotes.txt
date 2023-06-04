@@ -1,1 +1,3 @@
-
+dp means - density independent pixel
+sp - scale independent pixels
+Image view - android:src and android:scaleType centerCrop
